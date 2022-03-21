@@ -23,3 +23,5 @@
 # ISSUES
 
     https://github.com/CarlitosDavid/budget-tracking-program-/issues/1
+
+    https://github.com/CarlitosDavid/budget-tracking-program-/issues/2
